@@ -43,17 +43,9 @@ include_once '../header.php'; ?>
   <div class="container pt-3 pt-lg-4">
     <div class="row">
 
-      <div class="col-12 col-lg-6">
+      <div class="col-12">
         <p class="transfer__description"><?= Config::get_phrase('book_your_transfer'); ?></p>
-      </div>
-
-      <div class="col-12 col-lg-6">
-        <div class="transfer-map">
-          <iframe src="https://www.google.com/maps/d/embed?mid=1dXmiU9e_PEpIJmSRX6pPZbmGAEgJ5eQ&ehbc=2E312F&noprof=1"
-                  width="640" height="450" style="border:0;width: 100%;" allowfullscreen="" loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade" title="Google Map aerodrom "></iframe>
-        </div>
-      </div>
+      </div>      
 
     </div>
   </div>

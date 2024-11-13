@@ -108,7 +108,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/header.php'; ?>
   </section>
   <section class="container">
     <div class="row py-4">
-      <div class="col-12 col-lg-6 py-3 py-lg-0">
+      <div class="col-12">
         <div class="service-description">
           <h2 class="service-description__title"><?= Config::get_phrase('safety_priority'); ?></h2>
           <h3 class="service-description__subtitle"><?= Config::get_phrase('new_mercedes'); ?></h3>
@@ -123,13 +123,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/header.php'; ?>
           </ul>
         </div>
       </div>
-      <div class="col-12 col-lg-6 py-3 py-lg-0">
-        <div class="service-map">
-          <iframe src="https://www.google.com/maps/d/embed?mid=1byo1z_lmu2ckxjxLPUhFT2oQ-jwnD0I&ehbc=2E312F&noprof=1"
-                  width="600" height="450" style="border:0;width: 100%;" allowfullscreen="" loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade" title="Google Map"></iframe>
-        </div>
-      </div>
+      
     </div>
     <div class="definition row py-4">
       <div data-aos="fade-right" class="col-12 col-lg-4">
