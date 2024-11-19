@@ -37,7 +37,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/header.php'; ?>
     </div>
   </section>
   <div class="container">
-    <p class="excursion__description pt-3 pt-lg-4"><?= Config::get_phrase('montenegro_description'); ?></p>
+    <p class="excursion__description pt-3 pt-lg-4"><?= Config::get_phrase('excursions_intro'); ?></p>
+    <p class="excursion__description pt-3 pt-lg-4"><?= Config::get_phrase('excursions_promise'); ?></p>
   </div>
 <?php
 include_once $_SERVER['DOCUMENT_ROOT'].'/footer.php';

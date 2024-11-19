@@ -448,5 +448,59 @@
     "ru": "Все права защищены.",
     "tr": "Tüm hakları saklıdır.",
     "sq": "Të gjitha të drejtat e rezervuara."
+  },
+  "error_message": {
+    "sr": "Извините! Страница није пронађена",
+    "en": "Sorry! Page not found",
+    "de": "Entschuldigung! Seite nicht gefunden",
+    "fr": "Désolé! Page non trouvée",
+    "ru": "Извините! Страница не найдена",
+    "tr": "Üzgünüz! Sayfa bulunamadı",
+    "sq": "Na vjen keq! Faqja nuk u gjet"
+  },
+  "error_description": {
+    "sr": "Тако се десило да сте од свих страница нашег сајта завршили баш на оној која више не постоји.",
+    "en": "It seems you ended up on the one page of our site that no longer exists.",
+    "de": "Es scheint, Sie sind auf der einen Seite unserer Website gelandet, die nicht mehr existiert.",
+    "fr": "Il semble que vous êtes tombé sur la seule page de notre site qui n'existe plus.",
+    "ru": "Так получилось, что вы попали на ту самую страницу нашего сайта, которая больше не существует.",
+    "tr": "Görünüşe göre, sitemizde artık var olmayan bir sayfaya ulaştınız.",
+    "sq": "Duket se keni përfunduar në faqen e vetme të faqes sonë që nuk ekziston më."
+  },
+  "back_to_home": {
+    "sr": "На почетну",
+    "en": "Back to home",
+    "de": "Zur Startseite",
+    "fr": "Retour à l'accueil",
+    "ru": "На главную",
+    "tr": "Ana sayfaya dön",
+    "sq": "Kthehu në faqen kryesore"
+  },
+  "call_us": {
+    "sr": "Увек нас можете позвати на број",
+    "en": "You can always call us at",
+    "de": "Sie können uns jederzeit unter der Nummer erreichen",
+    "fr": "Vous pouvez toujours nous appeler au",
+    "ru": "Вы всегда можете позвонить нам по номеру",
+    "tr": "Bize her zaman şu numaradan ulaşabilirsiniz",
+    "sq": "Mund të na telefononi gjithmonë në numrin"
+  },
+  "excursions_intro": {
+    "sr": "Crna Gora, kao polazna tačka prepuna prirodnih lepota i istorijskih znamenitosti, pruža savršenu priliku za istraživanje i susednih zemalja, ali i udaljenijih destinacija. Uz nas možete upoznati čarobne obale Hrvatske, uživati u bogatoj istoriji Bosne i Hercegovine, otkriti skrivene dragulje Albanije, istražiti Srbiju i Makedoniju, ali i doživeti nezaboravne trenutke u Nemačkoj i Grčkoj. Organizujemo individualne i grupne ekskurzije, prilagođene vašim željama – bilo da želite da posetite znamenite gradove, istražujete prirodne parkove, ili uživate u lokalnoj gastronomiji.",
+    "en": "Montenegro, as a starting point full of natural beauty and historical landmarks, offers a perfect opportunity to explore neighboring countries as well as more distant destinations. With us, you can discover the charming coasts of Croatia, enjoy the rich history of Bosnia and Herzegovina, uncover the hidden gems of Albania, explore Serbia and North Macedonia, and experience unforgettable moments in Germany and Greece. We organize individual and group excursions tailored to your desires – whether you wish to visit famous cities, explore natural parks, or enjoy local gastronomy.",
+    "de": "Montenegro, als Ausgangspunkt voller natürlicher Schönheit und historischer Sehenswürdigkeiten, bietet die perfekte Gelegenheit, Nachbarländer sowie entferntere Reiseziele zu erkunden. Mit uns können Sie die bezaubernden Küsten Kroatiens entdecken, die reiche Geschichte von Bosnien und Herzegowina genießen, die verborgenen Schätze Albaniens erkunden, Serbien und Nordmazedonien bereisen und unvergessliche Momente in Deutschland und Griechenland erleben. Wir organisieren individuelle und Gruppenreisen, die auf Ihre Wünsche abgestimmt sind – ob Sie berühmte Städte besuchen, Naturparks erkunden oder die lokale Gastronomie genießen möchten.",
+    "fr": "Le Monténégro, en tant que point de départ riche en beauté naturelle et en monuments historiques, offre une opportunité parfaite pour explorer les pays voisins ainsi que des destinations plus éloignées. Avec nous, vous pouvez découvrir les charmantes côtes de la Croatie, profiter de la riche histoire de la Bosnie-Herzégovine, découvrir les trésors cachés de l'Albanie, explorer la Serbie et la Macédoine du Nord, et vivre des moments inoubliables en Allemagne et en Grèce. Nous organisons des excursions individuelles et en groupe, adaptées à vos envies – que vous souhaitiez visiter des villes célèbres, explorer des parcs naturels ou profiter de la gastronomie locale.",
+    "ru": "Черногория, как отправная точка, полная природной красоты и исторических достопримечательностей, предлагает прекрасную возможность для изучения соседних стран, а также более дальних направлений. С нами вы сможете открыть для себя очаровательные побережья Хорватии, насладиться богатой историей Боснии и Герцеговины, исследовать скрытые жемчужины Албании, познакомиться с Сербией и Северной Македонией, а также пережить незабываемые моменты в Германии и Греции. Мы организуем индивидуальные и групповые экскурсии, адаптированные к вашим пожеланиям – будь то посещение известных городов, исследование природных парков или наслаждение местной гастрономией.",
+    "tr": "Karadağ, doğal güzellikler ve tarihi eserlerle dolu bir başlangıç noktası olarak, komşu ülkeleri ve daha uzak destinasyonları keşfetmek için mükemmel bir fırsat sunuyor. Bizimle, Hırvatistan'ın büyüleyici kıyılarını keşfedebilir, Bosna Hersek'in zengin tarihini yaşayabilir, Arnavutluk'un gizli güzelliklerini ortaya çıkarabilir, Sırbistan ve Kuzey Makedonya'yı keşfedebilir ve Almanya ile Yunanistan'da unutulmaz anlar yaşayabilirsiniz. İsteklerinize göre uyarlanmış bireysel ve grup turları düzenliyoruz – ister ünlü şehirleri ziyaret etmek, doğal parkları keşfetmek, ister yerel mutfağın tadını çıkarmak isteyin.",
+    "sq": "Mali i Zi, si një pikënisje e mbushur me bukuri natyrore dhe monumente historike, ofron një mundësi të shkëlqyer për të eksploruar vendet fqinje si dhe destinacione më të largëta. Me ne, mund të zbuloni bregdetet magjepsëse të Kroacisë, të shijoni historinë e pasur të Bosnjës dhe Hercegovinës, të eksploroni thesaret e fshehura të Shqipërisë, të vizitoni Serbinë dhe Maqedoninë e Veriut, si dhe të përjetoni momente të paharrueshme në Gjermani dhe Greqi. Ne organizojmë ekskursione individuale dhe në grup, të përshtatura sipas dëshirave tuaja – qoftë për të vizituar qytete të famshme, për të eksploruar parqe natyrore, apo për të shijuar gastronominë lokale."
+  },
+  "excursions_promise": {
+    "sr": "Bilo da ste ljubitelj prirode, istorije ili kulturnih avantura, mi smo tu da vam omogućimo nezaboravna iskustva i otkrijemo čari susednih zemalja i daljih destinacija – sve sa polaskom iz Crne Gore.",
+    "en": "Whether you are a nature lover, history enthusiast, or cultural adventurer, we are here to provide you with unforgettable experiences and to reveal the charms of neighboring countries and distant destinations – all starting from Montenegro.",
+    "de": "Ob Naturfreund, Geschichtsinteressierter oder kultureller Abenteurer – wir sind hier, um Ihnen unvergessliche Erlebnisse zu bieten und die Schönheiten der Nachbarländer und ferneren Ziele zu enthüllen – alles ausgehend von Montenegro.",
+    "fr": "Que vous soyez amoureux de la nature, passionné d'histoire ou aventurier culturel, nous sommes là pour vous offrir des expériences inoubliables et vous révéler les charmes des pays voisins et des destinations lointaines – le tout à partir du Monténégro.",
+    "ru": "Будь вы любителем природы, ценителем истории или культурным искателем приключений, мы здесь, чтобы подарить вам незабываемые впечатления и открыть чарующие красоты соседних стран и дальних направлений – всё это начиная из Черногории.",
+    "tr": "Doğa sever, tarih meraklısı veya kültürel bir maceracı olun, size unutulmaz deneyimler sunmak ve komşu ülkelerin cazibelerini ve uzak destinasyonları tanıtmak için buradayız – hepsi Karadağ'dan başlayarak.",
+    "sq": "Qoftë nëse jeni adhurues i natyrës, dashamirës i historisë apo aventurier kulturor, ne jemi këtu për t'ju ofruar përvoja të paharrueshme dhe për t'ju zbuluar hijeshitë e vendeve fqinje dhe destinacioneve të largëta – të gjitha duke filluar nga Mali i Zi."
   }
 }

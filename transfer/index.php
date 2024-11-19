@@ -45,7 +45,7 @@ include_once '../header.php'; ?>
 
       <div class="col-12">
         <p class="transfer__description"><?= Config::get_phrase('book_your_transfer'); ?></p>
-      </div>      
+      </div>
 
     </div>
   </div>
