@@ -63,7 +63,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/header.php'; ?>
 
       <div class="col-12 col-md-6 ">
         <div class="montenegro-place__info info row">
-          <h2 class="info-title col-12"><p class="info-text col-12"><?= Config::get_phrase('kotor'); ?></h2>
+          <h2 class="info-title col-12"><?= Config::get_phrase('kotor'); ?></h2>
           <p class="info-text col-12"><?= Config::get_phrase('boka_bay_description'); ?></p>
         </div>
       </div>
