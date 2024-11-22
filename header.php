@@ -5,8 +5,6 @@ $translations = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/path/t
 
 $lang = $_SESSION['lang'] ?? 'sr';
 
-$description = $translations['description'][$lang] ?? "Default Description";
-$keywords = $translations['keywords'][$lang] ?? "Default Keywords";
 ?>
 
 <!DOCTYPE html>
@@ -25,8 +23,8 @@ $keywords = $translations['keywords'][$lang] ?? "Default Keywords";
   <link rel="stylesheet" href="<?= ASSETS_PATH; ?>style/vendor-bundle.css?<?= VER ?>">
   <link rel="stylesheet" href="<?= ASSETS_PATH; ?>style/main.css?<?= VER ?>">
  
-  <meta name="description" content="<?= htmlspecialchars($description, ENT_QUOTES, 'UTF-8'); ?>">
-  <meta name="keywords" content="<?= htmlspecialchars($keywords, ENT_QUOTES, 'UTF-8'); ?>">
+  <meta name="description" content="<?= Config::get_phrase('transport_services'); ?>">
+  <meta name="keywords" content="<?= Config::get_phrase('keywords'); ?>">
 
   <title><?= Config::get_phrase('title'); ?></title>
 </head>

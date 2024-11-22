@@ -1,4 +1,22 @@
 {
+  "transport_services": {
+    "sr": "Profesionalne transportne usluge u Crnoj Gori: transferi do aerodroma, ekskurzije po Balkanu, prevozi u Nemačku. Kontaktirajte nas za rezervaciju.",
+    "en": "Professional transport services in Montenegro: airport transfers, Balkan excursions, transport to Germany. Contact us for booking.",
+    "de": "Professionelle Transportdienstleistungen in Montenegro: Flughafentransfers, Balkan-Exkursionen, Transporte nach Deutschland. Kontaktieren Sie uns für eine Reservierung.",
+    "fr": "Services de transport professionnels au Monténégro : transferts vers l'aéroport, excursions dans les Balkans, transports vers l'Allemagne. Contactez-nous pour réserver.",
+    "ru": "Профессиональные транспортные услуги в Черногории: трансферы до аэропорта, экскурсии по Балканам, перевозки в Германию. Свяжитесь с нами для бронирования.",
+    "tr": "Karadağ'da profesyonel taşıma hizmetleri: havaalanı transferleri, Balkan gezileri, Almanya'ya ulaşım. Rezervasyon için bizimle iletişime geçin.",
+    "sq": "Shërbime transporti profesionale në Mal të Zi: transferime në aeroport, ekskursione në Ballkan, transport për në Gjermani. Na kontaktoni për rezervim."
+  },
+  "keywords": {
+    "sr": "usluge transfera, ekskurzije, prevoz putnika, Crna Gora, aerodromski transfer, putovanja, privatni prevoz, taksi, turističke ture, turizam, izleti, prevoz putnika",
+    "en": "transfer services, excursions, passenger transport, Montenegro, airport transfer, travel, private transport, taxi, tourist tours, tourism, trips, passenger transportation",
+    "de": "Transferdienste, Ausflüge, Personenbeförderung, Montenegro, Flughafentransfer, Reisen, privater Transport, Taxi, Touristentouren, Tourismus, Ausflüge, Personenverkehr",
+    "fr": "services de transfert, excursions, transport de passagers, Monténégro, transfert aéroport, voyages, transport privé, taxi, visites touristiques, tourisme, excursions, transport de passagers",
+    "ru": "услуги трансфера, экскурсии, пассажирские перевозки, Черногория, трансфер в аэропорт, путешествия, частный транспорт, такси, туристические туры, туризм, поездки, перевозка пассажиров",
+    "tr": "transfer hizmetleri, geziler, yolcu taşımacılığı, Karadağ, havaalanı transferi, seyahat, özel taşıma, taksi, turistik turlar, turizm, geziler, yolcu taşımacılığı",
+    "sq": "shërbime transferimi, ekskursione, transport pasagjerësh, Mali i Zi, transfer aeroporti, udhëtime, transport privat, taksi, ture turistike, turizëm, udhëtime, transport pasagjerësh"
+  },
   "title": {
     "sr": "Prevoz za nemačku, transfer, exkursije",
     "en": "Transport to Germany, transfer, excursions",
